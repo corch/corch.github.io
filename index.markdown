@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+# Corch X - Internet Sass Provider
+
+You've found my blog. Prepare to be sassed.
+
