@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Corch is a mononym. I don't have a surname. I spend an inordinate amount of time in life dealing with the bad design assumptions of developers who think everyone has at least 2 names. 
+Security nerd. Privacy warrior. Actual ninja. 
 
-This is corner of the Internet is where put my thoughts into written words. Fair warning: if you read them you may find them highly entertaing, or highly offensive, or possibly both. Proceed at your own risk.
+This corner of the Internet is where put my (barely filtered) thoughts into written words. *Fair warning:* if you read them you may find them highly entertaining, or highly offensive. Possibly both. Proceed at your own risk.
 
+If you're wondering, the X has no amusing or mystical meaning, it is literally just filler. Web apps and databases just don't like mononyms.

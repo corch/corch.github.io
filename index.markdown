@@ -2,10 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
-# Corch X - Internet Sass Provider
-
-You've found my blog. Prepare to be sassed.
+## You've found my blog. Prepare to be sassed.
 
