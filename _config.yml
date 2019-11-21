@@ -30,7 +30,7 @@ twitter_username: ShogunCySec
 github_username:  corch
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
