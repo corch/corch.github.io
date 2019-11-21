@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Corch X - putting the "X" in haX0r since 2001. 
   Actually there's no X, it's just Corch, but try telling that to any web form ever.
   Bad assumptions make bad code. Your code is probably bad, what does that tell you?  
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://corch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShogunCySec
 github_username:  corch
