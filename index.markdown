@@ -5,5 +5,5 @@
 layout: default
 ---
 
-## You've found my blog. Prepare to be sassed.
+## Nothing to see here, move along.
 
